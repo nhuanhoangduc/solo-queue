@@ -1,0 +1,27 @@
+{
+  "name": "solo-queue",
+  "version": "1.0.0",
+  "description": "Persistent queue to create persistent schedule for multi server nodejs",
+  "main": "soloQueue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhuanhoangduc/solo-queue.git"
+  },
+  "keywords": [
+    "queue",
+    "persistent",
+    "schedule",
+    "multi",
+    "server",
+    "nodejs"
+  ],
+  "author": "Nhua Nhua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhuanhoangduc/solo-queue/issues"
+  },
+  "homepage": "https://github.com/nhuanhoangduc/solo-queue#readme"
+}
