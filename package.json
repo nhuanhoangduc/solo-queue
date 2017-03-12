@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/nhuanhoangduc/solo-queue/issues"
   },
-  "homepage": "https://github.com/nhuanhoangduc/solo-queue#readme"
+  "homepage": "https://github.com/nhuanhoangduc/solo-queue#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "co": "^4.6.0",
+    "redis": "^2.6.5"
+  }
 }
