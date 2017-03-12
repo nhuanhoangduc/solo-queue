@@ -10,7 +10,7 @@ let SoloQueue = require('./soloQueue');
 let myQueue = new SoloQueue(config);
 
 myQueue
-	.loadMessages()
+	.loadUncompletedMessages()
 	.then((messages) => {
 		console.log(messages);
 	})
